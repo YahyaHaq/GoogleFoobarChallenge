@@ -1,4 +1,5 @@
-<h1> Level 4 Part 1 <h1>
+<h1> Level 4 Part 1 </h1>
+
 Distract the Guards
 ===================
 
@@ -68,8 +69,8 @@ Output:
   
   
   
-<h1> Level 4 Part 2 <h1>
-  '''
+<h1> Level 4 Part 2 </h1>
+
 Uh-oh -- you've been cornered by one of Commander Lambdas elite bunny trainers! Fortunately, you grabbed a beam weapon
 from an abandoned storeroom while you were running through the station, so you have a chance to fight your way out.
 But the beam weapon is potentially dangerous to you as well as to the bunny trainers: its beams reflect off walls,
@@ -91,4 +92,3 @@ the elite trainer (given as vector bearings from your location): [1, 0], [1, 2],
 As specific examples, the shot at bearing [1, 0] is the straight line horizontal shot of distance 1, the shot at bearing [-3, -2] b
 ounces off the left wall and then the bottom wall before hitting the elite trainer with a total shot distance of sqrt(13),
 and the shot at bearing [1, 2] bounces off just the top wall before hitting the elite trainer with a total shot distance of sqrt(5).
-'''
